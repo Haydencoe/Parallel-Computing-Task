@@ -6,3 +6,5 @@ Barkston Heath, Scampton, Waddington, Cranwell and Coningsby. The tool loads the
 including the min, max and average values, and standard deviation. 
 
 Due to the large amount of data (i.e. 1.8 million records), all statistical calculations are performed on parallel hardware and implemented by software written in OpenCL. The tool also reports memory transfer, kernel execution and total program execution times for performance assessment.
+
+The main files of the program are: https://github.com/Haydencoe/Parallel-Computing-Task/blob/master/Tutorial%203/Tutorial%203.cpp
