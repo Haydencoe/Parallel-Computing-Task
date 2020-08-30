@@ -7,5 +7,4 @@ including the min, max and average values, and standard deviation.
 
 Due to the large amount of data (i.e. 1.8 million records), all statistical calculations are performed on parallel hardware and implemented by software written in OpenCL. The tool also reports memory transfer, kernel execution and total program execution times for performance assessment.
 
-The main files of the program are: Tutorial 3.cpp &
-
+The main files of the program are: Tutorial 3.cpp & my_kernels3.cl
